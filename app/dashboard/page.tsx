@@ -1,6 +1,6 @@
+import React from 'react'
 import SaleLineChart from '@/components/sale-info/SaleLineChart'
 import SalesDataForm from '@/components/sale-info/SalesDataForm'
-import React from 'react'
 import { getSalesData } from '../saleAction'
 import { category } from '@prisma/client'
 import SaleBarChart from '@/components/sale-info/SaleBarChart'
