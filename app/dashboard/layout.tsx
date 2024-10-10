@@ -1,6 +1,6 @@
 import { Toaster } from "react-hot-toast";
 
-export default async function Layout({
+export default async function DashboardLayout({
     children,
   }: {
     children: React.ReactNode;
